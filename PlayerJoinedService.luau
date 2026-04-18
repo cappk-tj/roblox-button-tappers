@@ -1,3 +1,5 @@
+-- USES EXTERNAL MODULES OMITTED FROM REPO
+
 -----------------------------
 -- SERVICES --
 -----------------------------
