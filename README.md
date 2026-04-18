@@ -28,7 +28,7 @@ I used to play Cookie Clicker a lot so I thought it'd be fun to recreate that ki
 - Long-term solo project management
 
 ### 🔧 What I could have improved
-- Clicking Performance — Whenever a player clicked a button to gain cash the client would send a remote to the server and do a bunch of validation and anti cheat checks. During full servers of players this caused a lot of unnecessary server/network load. Players on lower-end devices suffered the most from this. A better approach would have been to batch clicks into timed requests and also to add a rate limit on the requests.
+- Clicking Performance — Whenever a player clicked a button to gain cash the client would send a remote to the server and do a bunch of validation and anti cheat checks. During full servers of players this caused a lot of unnecessary server/network load. Players on mobile devices suffered the most from this. A better approach would have been to batch clicks into timed requests and also to add a rate limit on the requests.
 - UI Design — Some UI elements could have been improved by using a consistent visual style and stronger theme identites throughout menus.
 
 ### 🎥 Game showcase video (1m 35s):
